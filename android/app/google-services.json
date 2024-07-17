@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582630173242",
+    "firebase_url": "https://capston-5713f-default-rtdb.firebaseio.com",
+    "project_id": "capston-5713f",
+    "storage_bucket": "capston-5713f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582630173242:android:db5e94c0e9764080d1e303",
+        "android_client_info": {
+          "package_name": "com.example.musik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582630173242-6g4bmacgb65dftcti2qu8dbel6jn4fr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd1DQUIFOuN3UPJdWBVfvAJ9ngugnZ0FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582630173242-6g4bmacgb65dftcti2qu8dbel6jn4fr0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582630173242-qgdt0f8rpcd2iqveon4nef65uu45prnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.capston"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
